@@ -2,7 +2,7 @@
 
 client_id = "1c902863516402c4031fe6ff6e005d9d"
 name = "free-shipping-banner"
-application_url = "https://shall-matthew-met-son.trycloudflare.com"
+application_url = "https://propose-screensavers-estimated-alice.trycloudflare.com"
 embedded = true
 handle = "free-shipping-banner-27"
 
@@ -26,7 +26,7 @@ api_version = "2025-07"
 scopes = "write_products"
 
 [auth]
-redirect_urls = ["https://shall-matthew-met-son.trycloudflare.com/auth/callback", "https://shall-matthew-met-son.trycloudflare.com/auth/shopify/callback", "https://shall-matthew-met-son.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://propose-screensavers-estimated-alice.trycloudflare.com/auth/callback", "https://propose-screensavers-estimated-alice.trycloudflare.com/auth/shopify/callback", "https://propose-screensavers-estimated-alice.trycloudflare.com/api/auth/callback"]
 
 [pos]
 embedded = false
