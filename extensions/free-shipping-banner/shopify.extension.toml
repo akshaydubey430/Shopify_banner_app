@@ -1,0 +1,6 @@
+name = "free-shipping-banner"
+type = "theme_app_extension"
+
+[[blocks]]
+name = "Promo Banner"
+path = "sections/promo-banner.liquid"
